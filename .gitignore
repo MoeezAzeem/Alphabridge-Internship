@@ -1,0 +1,34 @@
+# Node modules (ignore in all subfolders)
+**/node_modules/
+
+# Build output
+**/build/
+**/dist/
+
+# Testing
+**/coverage/
+
+# Misc
+.DS_Store
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnp.js
+.pnp
+
+# VSCode settings (optional)
+.vscode/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Ignore local environment files
+*.local
+
+# Ignore MongoDB data if you ever store it locally
+data/
