@@ -1,14 +1,19 @@
-Welcome to my Internship Repository!
-This repository will serve as a central place where I will document and upload all the major tasks, exercises, and learning assignments given to me by my team lead throughout my internship.
+# Internship Repository
 
-Before I am assigned a full real-world project, I will be completing multiple preparatory tasks to strengthen my technical understanding, improve my workflow, and get familiar with the tools, technologies, and processes used by the team. All such tasks will be added here in an organized manner.
+Welcome to my **Internship Repository**!
 
-Purpose of This Repository
+This repository is where I will be adding all the major tasks assigned to me by my team lead throughout my internship. These tasks will help me build the necessary skills, understand the workflow, and get familiar with the tools and technologies used by the team before I am assigned a real project.
 
-Track my progress throughout the internship
+---
 
-Maintain a record of all assigned tasks
+## Purpose of This Repository
+- Keep track of my progress during the internship  
+- Maintain a structured record of all assigned tasks  
+- Document my learning and technical growth  
+- Prepare myself before moving on to an actual project  
 
-Showcase my learning curve and skill development
+---
 
-Keep everything organized before transitioning to real project work
+## Repository Structure
+The structure will be gradually updated as more tasks are completed:
+
